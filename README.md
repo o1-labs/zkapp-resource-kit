@@ -13,6 +13,6 @@ This repo contains all official and community-created resource related to snapp 
     - [Video Recording](https://bit.ly/3pXorQQ)
     - Slides (coming soon)
 
-### How to contribute
+### Want to contribute to this kit?
 
-Notice a missing resource or want to create your own? Feel free to add to this list by creating a pull request!
+If you notice a missing resource or want to create your own resource, feel free to add to this list by creating a pull request!
