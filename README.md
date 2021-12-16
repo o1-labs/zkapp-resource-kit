@@ -6,7 +6,7 @@ This repo contains all official and community-created resource related to snapp 
 - [Snapps docs overview](https://bit.ly/33yeba6)
 - [How snapps work](https://bit.ly/3m7PGa9)
 - [How to write a snapp](https://bit.ly/3F3l2pG)
-- [SnarkyJS API Reference](https://bit.ly/3e0kkxu)
+- [SnarkyJS API reference](https://bit.ly/3e0kkxu)
 
 ## Workshop and Bootcamp Recordings
 
