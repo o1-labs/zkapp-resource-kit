@@ -10,15 +10,22 @@ This repo contains all official and community-created resource related to snapp 
 
 ## Workshop and Bootcamp Recordings
 
-- ZKHack Workshop - Intro to SnarkJS and Snapps with Mina
+- ZKHack Workshop, Dec 2021 - Intro to SnarkJS and Snapps with Mina
     - [Video Recording](https://bit.ly/3q1Y5wN)
     - [Slides](https://bit.ly/3s5DuKR)
-- Snapps Bootcamp - Intro & Session #1 
+- Snapps Bootcamp, Dec 2021 - Intro & Session #1 
     - [Video Recording](https://bit.ly/3saqp34)
     - [Slides](https://bit.ly/3oYTcFN)
-- Snapps Bootcamp - Session #2 & Presentations
+- Snapps Bootcamp, Dec 2021 - Session #2 & Presentations
     - [Video Recording](https://bit.ly/3pXorQQ)
     - Slides (coming soon)
+
+
+## Community built snapps 
+
+- *Mina Secret Exchange* - The secret exchange allows users to buy imaginary tokens after successfully providing the solution to a series of math problems while keeping the solution itself secure and private, not exposing it to the network. Check it out here: https://mina.proxylabs.org/
+- *Blind Man's Bluff* - A simplified version of poker where zk-SNARKs keep the contract unaware of the actual numbers users have, yet giving it the knowledge of the game result. Have a look here: https://github.com/wotomas/BlindMansBluff#build--run
+- *Snapp Hangman* - With Mina's SnarkyJS API and SnarkyJS library showing their zero-knowledge capabilities, this is a snapp Hangman game utilizing zk-SNARKs to keep the secret word and random input private. Try it out: https://github.com/frisitano/snapp-hangman
 
 ### Contribute to this kit!
 
