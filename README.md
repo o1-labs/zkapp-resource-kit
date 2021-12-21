@@ -9,8 +9,14 @@ This repo contains all official and community-created resource related to snapp 
 - [How to write a snapp](https://bit.ly/3F3l2pG)
 - [SnarkyJS API reference](https://bit.ly/3e0kkxu)
 
-## Workshop and Bootcamp Recordings
+## Official Videos
 
+- [Zero Knolwedge Smart Contracts, Snapps](https://www.youtube.com/watch?v=H_JQjPDwAH0)
+
+## Workshop, Bootcamp, and Conference Recordings
+
+- Illumninate: Genesis Summit - Snapp Architecture & Progress
+    - [Video Recording](https://www.youtube.com/watch?v=AolaaEFsBY4)
 - ZKHack Workshop, Dec 2021 - Intro to SnarkJS and Snapps with Mina
     - [Video Recording](https://bit.ly/3q1Y5wN)
     - [Slides](https://bit.ly/3s5DuKR)
