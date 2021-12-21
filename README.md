@@ -15,7 +15,7 @@ This repo contains all official and community-created resource related to snapp 
 
 ## Workshop, Bootcamp, and Conference Recordings
 
-- Illumninate: Genesis Summit - Snapp Architecture & Progress
+- Illumninate: Genesis Summit, June 2021 - Snapp Architecture & Progress
     - [Video Recording](https://www.youtube.com/watch?v=AolaaEFsBY4)
 - ZKHack Workshop, Dec 2021 - Intro to SnarkJS and Snapps with Mina
     - [Video Recording](https://bit.ly/3q1Y5wN)
