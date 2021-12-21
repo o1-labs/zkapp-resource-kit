@@ -27,7 +27,7 @@ This repo contains all official and community-created resource related to snapp 
 - [Blind Man's Bluff](https://github.com/wotomas/BlindMansBluff#build--run) - A simplified version of poker where zk-SNARKs keep the contract unaware of the actual numbers users have, yet giving it the knowledge of the game result.
 - [Snapp Hangman](https://github.com/frisitano/snapp-hangman) - With Mina's SnarkyJS API and SnarkyJS library showing their zero-knowledge capabilities, this is a snapp Hangman game utilizing zk-SNARKs to keep the secret word and random input private.
 
-You can find more information and links to the code in this snapps directory that’s built by the community: https://snappsformina.com/. Add your Snapp using this link: https://snappsformina.com/submit-a-snapp/. We'd love to see what everyone is building!
+You can find more information and links to the code in this snapps directory that’s built by the community: https://snappsformina.com. Add your Snapp using this link: https://snappsformina.com/submit-a-snapp. We'd love to see what everyone is building!
 
 ### Contribute to this kit!
 
