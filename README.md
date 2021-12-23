@@ -2,7 +2,7 @@
 
 This repo contains all official and community-created resource related to snapp development. The resources gathered here help new beginner to intermediate level developers learn more about snapps, how to build snapps, and how to contribute to the Mina ecosystem. 
 
-### New to snapps? 
+### New to snapps? Start here!
 
 We recommend you start by reading the official docs below. Next, check out the "Intro to SnarkyJS and Snapps with Mina" recording and create an example project: https://github.com/o1-labs/snapp-cli.
 
