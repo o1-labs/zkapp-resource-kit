@@ -4,7 +4,7 @@ This repo contains all official and community-created resource related to snapp 
 
 ### New to snapps? Start here!
 
-We recommend you start by:
+We recommend that you:
 1. Read the official docs below
 2. Watch the ["Intro to SnarkyJS and Snapps with Mina"](https://bit.ly/3q1Y5wN) recording
 3. Create an example project: https://github.com/o1-labs/snapp-cli
