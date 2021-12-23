@@ -48,4 +48,6 @@ We recommend that you:
 
 If you notice a missing resource or want to create your own resource, feel free to add to this list by creating a pull request!
 
-If you want to share your work and build a snapp, add it here to the community built snapp directory or check out other snapps at [Snapps For Mina](https://snappsformina.com): https://snappsformina.com/submit-a-snapp. If you have feedback or ideas, post it here on [Mina Research](https://forums.minaprotocol.com/)
+If you want to share your work and build a snapp, add it here to the community built snapp directory or check out other snapps at [Snapps For Mina](https://snappsformina.com): https://snappsformina.com/submit-a-snapp. 
+
+If you have feedback or ideas, post it here on [Mina Research](https://forums.minaprotocol.com/)
