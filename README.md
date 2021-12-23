@@ -2,6 +2,13 @@
 
 This repo contains all official and community-created resource related to snapp development. The resources gathered here help new beginner to intermediate level developers learn more about snapps, how to build snapps, and how to contribute to the Mina ecosystem. 
 
+### New to snapps? 
+
+We recommend you start by reading the official docs below. Next, check out the "Intro to SnarkyJS and Snapps with Mina" recording and create an example project: https://github.com/o1-labs/snapp-cli.
+
+If you run into any questions, join the [#snapp-developers](https://discord.gg/654BcVJf) channel on Discord.
+
+
 ## Official Documentation
 
 - [Snapps docs overview](https://bit.ly/33yeba6)
@@ -17,7 +24,7 @@ This repo contains all official and community-created resource related to snapp 
 
 - Illumninate: Genesis Summit, June 2021 - Snapp Architecture & Progress
     - [Video Recording](https://www.youtube.com/watch?v=AolaaEFsBY4)
-- ZKHack Workshop, Dec 2021 - Intro to SnarkJS and Snapps with Mina
+- ZKHack Workshop, Dec 2021 - Intro to SnarkyJS and Snapps with Mina
     - [Video Recording](https://bit.ly/3q1Y5wN)
     - [Slides](https://bit.ly/3s5DuKR)
 - Snapps Bootcamp, Dec 2021 - Intro & Session #1 
