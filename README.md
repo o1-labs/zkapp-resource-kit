@@ -10,6 +10,7 @@ We recommend you start by:
 3. Create an example project: https://github.com/o1-labs/snapp-cli
 4. Join the [#snapp-developers](https://discord.gg/654BcVJf) channel on Discord where you can post questions, join discussions, and meet other snapp developers.
 
+# List of Snapp Resources
 
 ## Official Documentation
 
