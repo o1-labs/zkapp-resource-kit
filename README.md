@@ -15,9 +15,9 @@ We recommend that you:
 
 ## Official Documentation
 
-- [zkApps docs overview](https://bit.ly/33yeba6)
-- [How zkApp work](https://bit.ly/3m7PGa9)
-- [How to write a zkApp](https://bit.ly/3F3l2pG)
+- [zkApps docs overview](https://docs.minaprotocol.com/en/zkapps)
+- [How zkApp work](https://docs.minaprotocol.com/en/zkapps/how-zkapps-work)
+- [How to write a zkApp](https://docs.minaprotocol.com/en/zkapps/how-to-write-a-zkapp)
 - [SnarkyJS API reference](https://bit.ly/3e0kkxu)
 
 ## Official Videos
