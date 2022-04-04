@@ -2,6 +2,13 @@
 
 This repo contains all official and community-created resource related to zkApp development. The resources gathered here help new beginner to intermediate level developers learn more about zkApps, how to build zkApps, and how to contribute to the Mina ecosystem.
 
+### zkApp SDK components:
+
+1. [SnarkyJS](https://github.com/o1-labs/snarkyjs)
+2. [zkApp-CLI](https://github.com/o1-labs/zkapp-cli)
+
+Note: these are still undergoing active developments, but they are mostly feature ready for you to try your hands on today! 
+
 ### New to zkApps? Start here!
 
 We recommend that you:
